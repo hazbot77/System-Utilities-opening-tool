@@ -1,0 +1,9 @@
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\System Utilities Opening Tool\System Utilities Opening Tool\bin\Release\System Utilities Opening Tool.exe.config
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\System Utilities Opening Tool\System Utilities Opening Tool\bin\Release\System Utilities Opening Tool.exe
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\System Utilities Opening Tool\System Utilities Opening Tool\bin\Release\System Utilities Opening Tool.pdb
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\System Utilities Opening Tool\System Utilities Opening Tool\obj\Release\System_Utilities_Opening_Tool.Form1.resources
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\System Utilities Opening Tool\System Utilities Opening Tool\obj\Release\System_Utilities_Opening_Tool.Properties.Resources.resources
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\System Utilities Opening Tool\System Utilities Opening Tool\obj\Release\System Utilities Opening Tool.csproj.GenerateResource.cache
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\System Utilities Opening Tool\System Utilities Opening Tool\obj\Release\System Utilities Opening Tool.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\System Utilities Opening Tool\System Utilities Opening Tool\obj\Release\System Utilities Opening Tool.exe
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\System Utilities Opening Tool\System Utilities Opening Tool\obj\Release\System Utilities Opening Tool.pdb
